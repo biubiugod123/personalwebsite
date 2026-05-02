@@ -2,7 +2,6 @@
 layout: page
 title: Multimodal Traffic Accident Grounding System
 description: Zero-shot accident time/location/type grounding from real CCTV using frozen VLMs (Qwen3-VL + Gemini 3.1).
-img: assets/img/9.jpg
 importance: 1
 category: research
 giscus_comments: false

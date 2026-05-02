@@ -2,7 +2,6 @@
 layout: page
 title: Chain-of-Thought Distillation
 description: SFT vs. DPO/ORPO for reasoning alignment on Flan-T5-Base.
-img: assets/img/7.jpg
 importance: 3
 category: research
 giscus_comments: false

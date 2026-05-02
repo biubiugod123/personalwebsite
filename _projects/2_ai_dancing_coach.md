@@ -2,7 +2,6 @@
 layout: page
 title: AI Dancing Coach
 description: Gemini-powered dance coaching system with RAG-based technique feedback.
-img: assets/img/8.jpg
 importance: 2
 category: engineering
 giscus_comments: false
