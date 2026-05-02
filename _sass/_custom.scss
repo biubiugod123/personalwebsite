@@ -1,0 +1,63 @@
+// -----------------------------------------------------------------------------
+// Personal overrides for typography, spacing, and the about page.
+// Loaded LAST in assets/css/main.scss so these selectors win at equal
+// specificity. Touch this file (not the theme partials) when tweaking visuals.
+// -----------------------------------------------------------------------------
+
+// 1. Body line-height & paragraph spacing on the about page
+.post .clearfix p {
+  line-height: 1.65;
+  margin-bottom: 1.5em;
+}
+
+// 2. Heading hierarchy & breathing room
+.post-header .post-title {
+  margin-bottom: 0.75rem;
+}
+
+.post-header .desc {
+  margin-top: 0;
+  margin-bottom: 2.5rem;
+}
+
+.post article > h2 {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--global-divider-color);
+}
+
+// 3. News table — minimal, clean (no zebra, no Bootstrap borders)
+.news .table {
+  margin-bottom: 0;
+
+  th,
+  td {
+    border: none !important;
+    border-bottom: 1px solid var(--global-divider-color) !important;
+    padding: 0.75rem 0;
+    vertical-align: top;
+    background: transparent !important;
+  }
+
+  th {
+    padding-right: 1.5rem;
+    white-space: nowrap;
+    color: var(--global-text-color-light);
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+  }
+
+  tr:last-child th,
+  tr:last-child td {
+    border-bottom: none !important;
+  }
+}
+
+// 4. Profile sidebar — slightly de-emphasized address/email
+.profile .more-info p {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+  margin-bottom: 0.25rem;
+  line-height: 1.5;
+}
