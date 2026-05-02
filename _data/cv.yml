@@ -48,6 +48,17 @@ cv:
           - Investigating reasoning generalization through ARC-AGI-style tasks.
           - Exploring world-model grounding for agent decision-making.
 
+      - company: Huawei Technologies Co., Ltd.
+        position: Software Engineer
+        location: China
+        start_date: 2021-07
+        end_date: 2022-10
+        summary: Designed and developed software for the IT application layer, distributed cloud-based platforms, and Internet services using Agile, DevOps, and open-source methodologies.
+        highlights:
+          - Implemented full product lifecycle management — from customer requirements to definition, architecture, development, launch, and operations.
+          - Solved technical challenges in distributed systems, performance optimization, reliability, and database engineering to strengthen product competitiveness.
+          - Contributed to security and OSS maintenance work involving Apache and Zlib components.
+
     Projects:
       - name: Boundary-Aware Dialogue Analysis for LLM-based Social Agents
         summary: Researcher

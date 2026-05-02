@@ -6,7 +6,7 @@ subtitle: Research Assistant in Prof. Hang Jiang's <b>Human-AI Nexus Group</b>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.png
   image_circular: true
   more_info: >
     <p>Boston, MA</p>
