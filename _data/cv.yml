@@ -40,11 +40,10 @@ cv:
         url: ""
         start_date: 2026-02
         end_date: Present
-        summary: Working with Prof. Hang Jiang on LLM agents — focusing on agent-to-agent communication, abstract reasoning (ARC-AGI), and world models.
+        summary: Working with Prof. Hang Jiang on LLM agents — focusing on agent-to-agent communication and multi-agent coordination.
         highlights:
           - Designing protocols and benchmarks for multi-agent LLM coordination.
-          - Investigating reasoning generalization through ARC-AGI-style tasks.
-          - Exploring world-model grounding for agent decision-making.
+          - Studying agent-to-agent communication patterns in LLM-based systems.
 
       - company: Huawei Technologies Co., Ltd.
         position: Software Engineer
