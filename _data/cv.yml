@@ -58,15 +58,15 @@ cv:
           - Contributed to security and OSS maintenance work involving Apache and Zlib components.
 
     Projects:
-      - name: Boundary-Aware Dialogue Analysis for LLM-based Social Agents
+      - name: Multimodal Traffic Accident Grounding System
         summary: Researcher
         url: ""
-        start_date: 2026-02
-        end_date: 2026-03
+        start_date: 2026-03
+        end_date: 2026-05
         highlights:
-          - Built an experimental framework to evaluate social-boundary failures in large language model conversations.
-          - Designed controlled dialogue scenarios and prompt conditions to test model responses in workplace and interpersonal contexts.
-          - Generated insights for improving AI conversation safety and boundary-aware dialogue systems.
+          - Built a zero-shot multimodal accident grounding pipeline that predicts accident time, impact location, and collision type from real CCTV videos using frozen VLMs.
+          - Designed a two-pass coarse-to-fine framework with Qwen3-VL for temporal-spatial grounding and Gemini 3.1 for type classification, plus confidence-gated fallback mechanisms.
+          - Integrated YOLO + ByteTrack + physics-based scoring for robust fallback inference and evaluated the system on 2,027 ACCIDENT@CVPR 2026 real CCTV videos.
 
       - name: Gemini 3 Global Hackathon — AI Dancing Coach
         summary: Developer
@@ -112,6 +112,14 @@ cv:
           - Go
           - Java
           - Bash
+
+      - name: AI Coding Tools
+        level: ""
+        icon: fa-solid fa-robot
+        keywords:
+          - Claude Code
+          - Codex
+          - GitHub Copilot
 
       - name: LLMs, Agents & Reasoning
         level: ""
