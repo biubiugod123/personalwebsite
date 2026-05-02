@@ -5,7 +5,7 @@ cv:
   phone: (339) 221-8946
   location: Boston, MA
   image: ""
-  summary: Master's student in Computer Science at Northeastern University, focused on LLM reasoning, RAG, and computer vision. Open to research collaborations and full-time opportunities starting 2026.
+  summary: Research Assistant in Prof. Hang Jiang's Human-AI Nexus Group, working on LLM agents, agent-to-agent communication, abstract reasoning (ARC-AGI), and world models. MS in Computer Science, Northeastern University.
 
   social_networks:
     - network: GitHub
@@ -34,6 +34,19 @@ cv:
         end_date: 2021-05
         score: ""
         courses: ""
+
+    Experience:
+      - company: Human-AI Nexus Group
+        position: Research Assistant
+        location: Remote
+        url: ""
+        start_date: 2026-02
+        end_date: Present
+        summary: Working with Prof. Hang Jiang on LLM agents — focusing on agent-to-agent communication, abstract reasoning (ARC-AGI), and world models.
+        highlights:
+          - Designing protocols and benchmarks for multi-agent LLM coordination.
+          - Investigating reasoning generalization through ARC-AGI-style tasks.
+          - Exploring world-model grounding for agent decision-making.
 
     Projects:
       - name: Boundary-Aware Dialogue Analysis for LLM-based Social Agents
