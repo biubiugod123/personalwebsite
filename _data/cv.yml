@@ -34,9 +34,9 @@ cv:
         courses: ""
 
     Experience:
-      - company: Human-AI Nexus Group
+      - company: Human-AI Nexus Group (Prof. Hang Jiang)
         position: Research Assistant
-        location: Remote
+        location: Boston, MA
         url: ""
         start_date: 2026-02
         end_date: Present
@@ -60,6 +60,7 @@ cv:
     Projects:
       - name: Boundary-Aware Dialogue Analysis for LLM-based Social Agents
         summary: Researcher
+        url: ""
         start_date: 2026-02
         end_date: 2026-03
         highlights:
@@ -79,6 +80,7 @@ cv:
 
       - name: Chain-of-Thought Distillation for Reasoning Enhancement
         summary: Developer
+        url: ""
         start_date: 2025-09
         end_date: 2025-12
         highlights:
@@ -111,17 +113,21 @@ cv:
           - Java
           - Bash
 
-      - name: Machine Learning & LLM
+      - name: LLMs, Agents & Reasoning
         level: ""
         icon: fa-solid fa-brain
         keywords:
-          - LLM Fine-tuning
+          - LLM Fine-tuning (SFT, DPO, ORPO)
+          - Multi-agent Systems
+          - Agent-to-Agent Communication
           - Chain-of-Thought (CoT) Distillation
           - RAG
           - Transformers
           - NLP
+          - World Models
+          - ARC-AGI / Abstract Reasoning
           - Reinforcement Learning
-          - TensorFlow
+          - TensorFlow / PyTorch
           - MLflow
 
       - name: Computer Vision
@@ -157,6 +163,9 @@ cv:
       - name: Research
         icon: fa-solid fa-flask
         keywords:
+          - Agent-to-agent communication & coordination
+          - Abstract reasoning (ARC-AGI)
+          - World models for grounded agents
           - LLM reasoning & alignment
-          - Multimodal learning
-          - Sports video analysis
+          - Multimodal perception
+
