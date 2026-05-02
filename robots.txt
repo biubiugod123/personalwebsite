@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://biubiugod123.github.io/personalwebsite/sitemap.xml
+Sitemap: https://jiantang-huang.com//sitemap.xml
