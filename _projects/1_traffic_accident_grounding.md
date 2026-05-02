@@ -13,7 +13,7 @@ A **zero-shot multimodal accident grounding pipeline** that predicts **accident 
 
 ### Architecture
 
-- **Pass 1 — Coarse temporal-spatial grounding** with **Qwen3-VL**: locates *when* and *where* the accident occurs in the clip.
+- **Pass 1 — Coarse temporal-spatial grounding** with **Qwen3-VL**: locates _when_ and _where_ the accident occurs in the clip.
 - **Pass 2 — Fine-grained classification** with **Gemini 3.1**: identifies the collision type (rear-end, side-swipe, T-bone, etc.).
 - **Confidence gating**: when VLM confidence drops below threshold, the pipeline falls back to a deterministic stack — **YOLO + ByteTrack** for object detection/tracking plus a **physics-based scoring** module that reasons about velocity, trajectory, and impact geometry.
 
