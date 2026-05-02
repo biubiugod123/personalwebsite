@@ -42,11 +42,11 @@ ninja.data = [{
           section: "News",},{id: "news-built-ai-dancing-coach-for-the-gemini-3-global-hackathon-a-rag-grounded-dance-technique-coach-try-it",
           title: '🕺 Built AI Dancing Coach for the Gemini 3 Global Hackathon — a...',
           description: "",
-          section: "News",},{id: "projects-boundary-aware-dialogue-analysis",
-          title: 'Boundary-Aware Dialogue Analysis',
-          description: "An experimental framework for studying social-boundary failures in LLM-based agents.",
+          section: "News",},{id: "projects-multimodal-traffic-accident-grounding-system",
+          title: 'Multimodal Traffic Accident Grounding System',
+          description: "Zero-shot accident time/location/type grounding from real CCTV using frozen VLMs (Qwen3-VL + Gemini 3.1).",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_boundary_dialogue/";
+              window.location.href = "/projects/1_traffic_accident_grounding/";
             },},{id: "projects-ai-dancing-coach",
           title: 'AI Dancing Coach',
           description: "Gemini-powered dance coaching system with RAG-based technique feedback.",
