@@ -10,9 +10,9 @@ profile:
   image_circular: true
   more_info: >
     <p>Boston, MA</p>
-    <p>biubiugod@gmail.com</p>
+    <p>huang.jiant@northeastern.edu</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
