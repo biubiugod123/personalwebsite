@@ -1,15 +1,13 @@
 cv:
   name: Jiantang Huang
-  label: MS Computer Science Student
-  email: biubiugod@gmail.com
+  label: Research Assistant, Human-AI Nexus Group
+  email: huang.jiant@northeastern.edu
   phone: (339) 221-8946
   location: Boston, MA
   image: ""
   summary: Research Assistant in Prof. Hang Jiang's Human-AI Nexus Group, working on LLM agents, agent-to-agent communication, abstract reasoning (ARC-AGI), and world models. MS in Computer Science, Northeastern University.
 
   social_networks:
-    - network: GitHub
-      username: biubiugod123
     - network: LinkedIn
       username: jiantang-huang
 
