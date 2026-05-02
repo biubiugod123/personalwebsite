@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/Jiantang_Huang_CV.pdf
-cv_format: jsonresume # options: rendercv, jsonresume
+cv_format: rendercv # options: rendercv, jsonresume
 description: Curriculum Vitae — Jiantang Huang.
 toc:
   sidebar: left
