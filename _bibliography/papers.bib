@@ -1,16 +1,17 @@
 ---
 ---
 
-@article{huang2026twopass,
-  abbr        = {arXiv},
+@inproceedings{huang2026twopass,
+  abbr        = {CVPRW},
   bibtex_show = {true},
   selected    = {true},
   title       = {Two-Pass Zero-Shot Temporal-Spatial Grounding of Rare Traffic Events in Surveillance Video},
   author      = {Huang, Jiantang},
-  journal     = {arXiv preprint arXiv:2605.01512},
+  booktitle   = {CVPR Autopilot Workshop (NA Track, Poster)},
   year        = {2026},
   eprint      = {2605.01512},
   archivePrefix = {arXiv},
+  award       = {Accepted as Poster, CVPR Autopilot Workshop (NA Track)},
   html        = {https://arxiv.org/abs/2605.01512},
   pdf         = {https://arxiv.org/pdf/2605.01512},
   abstract    = {Grounding traffic accidents in real CCTV footage is a rare-event problem where training on labeled accident video is often prohibited, yet accurate joint localization in time, space, and collision type is required. We present a no-fine-tuning pipeline that elicits this joint output from frozen vision-language models through two ideas. First, a coarse-to-fine two-pass decomposition with two deterministic confidence gates that revert to the coarse estimate on boundary hedges. Second, a specialist role assignment: Qwen3-VL-Plus handles grounding, Gemini 3.1 Flash-Lite handles typing on a centered video clip. On the ACCIDENT@CVPR 2026 benchmark (2,027 real CCTV videos) we reach ACC^S = 0.539 (95% CI [0.525, 0.553]) — +0.127 over the benchmark paper's best-of-baselines oracle, at roughly \$20 total inference cost.}

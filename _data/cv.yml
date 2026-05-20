@@ -89,10 +89,10 @@ cv:
 
     Publications:
       - name: "Two-Pass Zero-Shot Temporal-Spatial Grounding of Rare Traffic Events in Surveillance Video"
-        publisher: arXiv:2605.01512
+        publisher: "CVPR Autopilot Workshop, NA Track (Poster); arXiv:2605.01512"
         releaseDate: 2026
         url: https://arxiv.org/abs/2605.01512
-        summary: Coarse-to-fine two-pass VLM pipeline (Qwen3-VL-Plus + Gemini 3.1 Flash-Lite) with confidence-gated fallback. Reaches ACC^S = 0.539 on ACCIDENT@CVPR 2026 (2,027 real CCTV videos), +0.127 over the benchmark paper's best-of-baselines oracle, at ~$20 total inference cost.
+        summary: Accepted as a poster at the CVPR Autopilot Workshop (NA Track). Coarse-to-fine two-pass VLM pipeline (Qwen3-VL-Plus + Gemini 3.1 Flash-Lite) with confidence-gated fallback. Reaches ACC^S = 0.539 on ACCIDENT@CVPR 2026 (2,027 real CCTV videos), +0.127 over the benchmark paper's best-of-baselines oracle, at ~$20 total inference cost.
 
       - name: "Slow-Motion Video Synthesis for Basketball Using Frame Interpolation"
         publisher: arXiv:2511.11644
